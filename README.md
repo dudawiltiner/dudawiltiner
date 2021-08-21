@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Living Lab EEL Smart Lab](https://eelsmartlab.vercel.app/)
 
-- 🌱 I’m currently learning **Physical Engineering, Web Development and Internet of Things**
+- 🌱 I’m currently learning **Physical Engineering and Web Development**
 
 - 👯 I’m looking to collaborate on [Freela Twins Project](https://github.com/FreelaTwins)
 
-- 👨‍💻 All of my projects are available at [https://dudaportfolio.vercel.app/projects](https://dudaportfolio.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [https://dudaportfolio.vercel.app/](https://dudaportfolio.vercel.app/projects)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/eduardawiltiner/](https://www.linkedin.com/in/eduardawiltiner/)
 
