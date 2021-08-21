@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Freela Twins Project](https://github.com/FreelaTwins)
 
-- 👨‍💻 All of my projects are available at [Website Portfolio Duda Wiltiner](https://dudaportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Website Portfolio - Duda Wiltiner](https://dudaportfolio.vercel.app/)
 
 - 📝 I regularly write articles on [Linkedin profile](https://www.linkedin.com/in/eduardawiltiner/)
 
