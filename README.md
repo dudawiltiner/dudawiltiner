@@ -9,15 +9,15 @@
 
 - 👯 I’m looking to collaborate on [Freela Twins Project](https://github.com/FreelaTwins)
 
-- 👨‍💻 All of my projects are available at [https://dudaportfolio.vercel.app/](https://dudaportfolio.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [Website Portfolio Duda Wiltiner](https://dudaportfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/eduardawiltiner/](https://www.linkedin.com/in/eduardawiltiner/)
+- 📝 I regularly write articles on [Linkedin profile](https://www.linkedin.com/in/eduardawiltiner/)
 
 - 💬 Ask me about **Technology, React, SQL, Arduino and IoT... I love this themes**
 
 - 📫 How to reach me **eduardawiltiner@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18u7Qld1w84okA3RbllpFHJ8LrHVfs-eb/view?usp=sharing](https://drive.google.com/file/d/18u7Qld1w84okA3RbllpFHJ8LrHVfs-eb/view?usp=sharing)
+- 📄 Know about my experiences [CV in pdf](https://drive.google.com/file/d/18u7Qld1w84okA3RbllpFHJ8LrHVfs-eb/view?usp=sharing)
 
 - ⚡ Fun fact **I like to post funny videos about tech on instagram "tecnologiaemulheres" profile ❤️**
 
