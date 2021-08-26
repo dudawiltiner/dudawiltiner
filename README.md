@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dudawiltiner&label=Profile%20views&color=0e75b6&style=flat" alt="dudawiltiner" /> </p>
 
-![](https://ibb.co/d7ggRMC)
+https://ibb.co/d7ggRMC
 - 🔭 I’m currently working on [Living Lab EEL Smart Lab](https://eelsmartlab.vercel.app/)
 
 - 🌱 I’m currently learning **Physical Engineering and Web Development**
