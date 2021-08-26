@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudawiltiner&show_icons=true&locale=en&layout=compact" alt="dudawiltiner" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dudawiltiner&show_icons=true&locale=en" alt="dudawiltiner" /></p>
+<p>&nbsp;<img color="green" align="center" src="https://github-readme-stats.vercel.app/api?username=dudawiltiner&show_icons=true&locale=en" alt="dudawiltiner" /></p>
 
 <h3 align="left">Snake-Eating Contribution:</h3>
 <p><img align="center" src="https://github.com/dudawiltiner/dudawiltiner/blob/output/github-contribution-grid-snake.svg" alt="dudawiltiner" /></p>
