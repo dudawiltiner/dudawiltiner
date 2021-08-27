@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dudawiltiner&label=Profile%20views&color=0e75b6&style=flat" alt="dudawiltiner" /> </p>
 
+<img src="./octocat.gif" align="right" alt="octocat" border="2px" width="450" height="450"/>
+
 - 🔭 I’m currently working on [Living Lab EEL Smart Lab](https://eelsmartlab.vercel.app/)
 
 - 🌱 I’m currently learning **Physical Engineering and Web Development**
