@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **eduardawiltiner@gmail.com**
 
-- 📄 Know about my experiences [CV in pdf](https://drive.google.com/file/d/18u7Qld1w84okA3RbllpFHJ8LrHVfs-eb/view?usp=sharing)
+- 📄 Know about my experiences [CV in pdf](https://drive.google.com/file/d/14kUYWcf6HWNQCNoZqfqK7jjN2e3gvhcv/view?usp=sharing)
 
 - ⚡ Fun fact **I like to post funny videos about tech on instagram "tecnologiaemulheres" profile ❤️**
 
