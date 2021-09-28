@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Technology, React, SQL, Arduino and IoT... I love this themes**
 
-- 📫 How to reach me **eduardawiltiner@gmail.com**
+- 📫 How to reach me: **eduardawiltiner@gmail.com** and [Linkedin profile](https://www.linkedin.com/in/eduardawiltiner/)
 
 - 📄 Know about my experiences [CV in pdf](https://drive.google.com/file/d/14kUYWcf6HWNQCNoZqfqK7jjN2e3gvhcv/view?usp=sharing)
 
