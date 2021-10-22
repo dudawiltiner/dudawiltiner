@@ -36,13 +36,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudawiltiner&show_icons=true&locale=en&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dudawiltiner&show_icons=true&locale=en&theme=radical" alt="dudawiltiner" />
+  <img margin="10px" align="center" src="https://github-readme-stats.vercel.app/api?username=dudawiltiner&show_icons=true&locale=en&theme=radical" alt="dudawiltiner" />
 </a>
 
-<!-- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudawiltiner&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dudawiltiner" /></p>
-
-<p><img color="green" align="center" src="https://github-readme-stats.vercel.app/api?username=dudawiltiner&show_icons=true&locale=en&theme=dracula" alt="dudawiltiner" /></p>
- -->
 <h3 align="left">Snake-Eating Contribution:</h3>
 <p><img align="center" src="https://github.com/dudawiltiner/dudawiltiner/blob/output/github-contribution-grid-snake.svg" alt="dudawiltiner" /></p>
