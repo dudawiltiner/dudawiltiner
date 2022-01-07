@@ -36,7 +36,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudawiltiner&show_icons=true&locale=en&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img margin="10px" align="center" src="https://github-readme-stats.vercel.app/api?username=dudawiltiner&show_icons=true&locale=en&theme=radical" alt="dudawiltiner" />
+  <img margin="10px" align="right" src="https://github-readme-stats.vercel.app/api?username=dudawiltiner&show_icons=true&locale=en&theme=radical" alt="dudawiltiner" />
 </a>
 
 <h3 align="left">Snake-Eating Contribution:</h3>
