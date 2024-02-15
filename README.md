@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Eduarda Wiltiner</h1>
-<h3 align="center">A passionate full stack developer and physical engineer from Brazil</h3>
+<h3 align="center">A passionate frontend developer and physical engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dudawiltiner&label=Profile%20views&color=0e75b6&style=flat" alt="dudawiltiner" /> </p>
 
 <img src="./octocat.gif" align="right" alt="octocat" border="2px" width="450" height="450"/>
 
-- 🔭 I’m currently working on [Living Lab EEL Smart Lab](https://eelsmartlab.vercel.app/)
+- 🔭 I’m currently working on Uhuu Company
 
-- 🌱 I’m currently learning **Physical Engineering and Web Development**
+- 🌱 I’m currently learning **Web Development, Reacf and Nexr**
 
-- 👯 I’m looking to collaborate on [Freela Twins Project](https://github.com/FreelaTwins)
+- 👯 I’m looking to collaborate on [](https://github.com/FreelaTwins)
 
 - 👨‍💻 All of my projects are available at [Website Portfolio - Duda Wiltiner](https://dudaportfolio.vercel.app/)
 
